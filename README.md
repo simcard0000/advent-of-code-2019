@@ -8,8 +8,8 @@ All solutions are held as their own functions in one large java file; if you wan
 ## Problems
 | Day | Problem Statement                                                               | Completion | Function Name | Input         | A: Solution | B: Solution | 
 | --- | ------------------------------------------------------------------------------- | -----------| --------------| ------------- | ----------- | ----------- | 
-|  1  | [The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1)       | ✅         | day1A/day1B  |               | 3273471     | 4907345     |
-|  2  | [1202 Program Alarm](https://adventofcode.com/2019/day/2) |
+|  1  | [The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1)       | ✅         | day1A/day1B  | [day1input](https://github.com/simcard0000/advent-of-code-2019/blob/main/src/aoc2019/day1input.txt)                   | 3273471    | 4907345     |
+|  2  | [1202 Program Alarm](https://adventofcode.com/2019/day/2)                       | ✅         | day2A/day2B  | [day2input](https://github.com/simcard0000/advent-of-code-2019/blob/main/src/aoc2019/day2input.txt)                   | 4576384    | 5398        |
 |  3  | [Crossed Wires](https://adventofcode.com/2019/day/3) |
 |  4  | [Secure Container](https://adventofcode.com/2019/day/4) |
 |  5  | [Sunny with a Chance of Asteroids](https://adventofcode.com/2019/day/5) |
